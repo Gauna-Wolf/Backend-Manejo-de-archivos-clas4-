@@ -1,11 +1,79 @@
 [
     {
         "id": 1,
-        "description": "Gtc Kgg-011 Rgb Switch Blue 80% Tkl",
-        "title": "Teclado Mecanico Gamer",
-        "price": "https://http2.mlstatic.com/D_NQ_NP_708620-MLA72982548112_112023-O.webp",
+        "description": "Gabinete Gamer",
+        "title": "Gabinete Gamer Mini Tower Thermaltake AH T200 Negro Vidrio Templado",
+        "price": "https://mexx-img-2019.s3.amazonaws.com/Gabinete-Mini-Tower-Thermaltake-AH-T200-Negro-Vidrio-Templado_46963_1.jpeg",
         "thumbnail": 5,
-        "code": 12000,
+        "code": 133199,
+        "stock": 10
+    },
+
+    {
+        "id": 2,
+        "description": "Garantía Oficial Gigabyte 12 Meses",
+        "title": "Monitor Gamer Gigabyte G27QC A-SA 27 Curvo 165HZ 2K HDMI/DP",
+        "price": "https://s3-sa-east-1.amazonaws.com/saasargentina/j4DpPMMwYTAnprKIyW0N/imagen",
+        "thumbnail": 9,
+        "code": 58999900,
         "stock": 15
+    },
+    
+    {
+        "id": 3,
+        "description": " ",
+        "title": "MOUSE GAMER GX GAMING GENIUS SCORPION SPEAR",
+        "price": "https://www.xt-pc.com.ar/img/productos/14/MOU706.jpg",
+        "thumbnail": 5,
+        "code": 828997,
+        "stock": 12
+    },
+
+    {
+        "id": 4,
+        "description": " ",
+        "title": "Audífonos gamer Kotion Gamer G2000 negro y rojo con luz LED",
+        "price": "https://http2.mlstatic.com/D_NQ_NP_955782-MLA45260598172_032021-O.webp",
+        "thumbnail": 6,
+        "code": 14834,
+        "stock": 18
+    },
+    {
+        "id": 5,
+        "description": " ",
+        "title": "Microfono Gamer Noga Mic-st02 Streaming Con Filtro Y Tripode",
+        "price": "https://http2.mlstatic.com/D_NQ_NP_708620-MLA72982548112_112023-O.webp",
+        "thumbnail": 24,
+        "code": 16.641,
+        "stock": 11
+    },
+
+    {
+        "id": 6,
+        "description": " ",
+        "title": "Mouse Pad Rgb Gamer Usb 80x30x0.4 Cm Retroiluminado",
+        "price": "https://http2.mlstatic.com/D_NQ_NP_961052-MLA49527563265_032022-O.webp",
+        "thumbnail": 16,
+        "code": 14900,
+        "stock": 23
+    },
+    {
+        "id": 7,
+        "description": "escritorio",
+        "title": "ESCRITORIO GAMER - GTC - RGB",
+        "price": "https://acdn.mitiendanube.com/stores/001/397/305/products/escritorio-21-ee1f60bea7b0b1412916117603339055-1024-1024.webp",
+        "thumbnail": 25,
+        "code": 299999,
+        "stock": 30
+    },
+
+    {
+        "id": 8,
+        "description": "Gtc Kgg-011 Rgb Switch Blue 80% Tkl",
+        "title": "Silla Gamer AUREOX G400",
+        "price": "https://statics.qloud.ar/scp-hardstore-10-2020/181_03-11-2023-03-11-18-silla-gamer-aureox-g400.jpg",
+        "thumbnail": 40,
+        "code": 264399,
+        "stock": 20
     }
 ]
